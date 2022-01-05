@@ -7,4 +7,4 @@
 * - numpy
 * - pandas
 * - BeautifulSoup
-![](https://github.com/Gofanz17/porto_project/blob/main/scrapping/images/hero-dota-2_61002e6.jpg)
+![](/scrapping/images/hero-dota-2_61002e6.jpg)
