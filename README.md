@@ -10,7 +10,7 @@
 ![](/scrapping/images/hero-dota-2_61002e6.jpg)
 
 # [Project 2 : Visualization of Covid-19 Cases in Indonesia using Tableu](https://public.tableau.com/app/profile/ghaniy.nugrahantoro/viz/Covid-19inIndonesia_16418014004150/Dashboard1)
-* Created by using [dataset](https://www.kaggle.com/hendratno/covid19-indonesia?select=covid_19_indonesia_time_series_all.csv#) from kaggle
-* In Tableu dashboard, Information of Covid-19 distributed each province. 
+* Created by using [a dataset](https://www.kaggle.com/hendratno/covid19-indonesia?select=covid_19_indonesia_time_series_all.csv#) from kaggle.com
+* In Tableu dashboard, Information of Covid-19 is distributed each province. 
 * User can select which province will be shown by clicking in the map or in the histogram table.
 ![](/tableu/tableucovid19.JPG)
