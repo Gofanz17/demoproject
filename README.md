@@ -13,4 +13,4 @@
 * Created by using [dataset](https://www.kaggle.com/hendratno/covid19-indonesia?select=covid_19_indonesia_time_series_all.csv#) from kaggle
 * In Tableu dashboard, Information of Covid-19 distributed each province. 
 * User can select which province will be shown by clicking in the map or in the histogram table.
-
+![](/tableu/tableu/tableucovid19.JPG)
