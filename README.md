@@ -14,3 +14,12 @@
 * In Tableu dashboard, Information of Covid-19 is distributed each province. 
 * User can select which province will be shown by clicking in the map or in the histogram table.
 ![](/tableu/tableucovid19.JPG)
+
+# [Project 3 : Stock prediction using Keras](https://github.com/Gofanz17/porto_project/tree/main/prediction)
+* Created by using data from yahoo finance.
+* Trading variables also used just to show the price movement.
+* The variables is used to show which prices will be the support and which prices will be the resistance.
+* In this project, make prediction by using 70% data (1752 closing prices) and make model prediction.
+* The rest 30% data (751 closing prices) are compared to model prediction.
+![](/prediction/images/movingaverage.png)
+![](/prediction/images/prediction.png)
