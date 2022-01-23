@@ -22,4 +22,5 @@
 * In this project, make prediction by using 70% data (1752 closing prices) and make model prediction.
 * The rest 30% data (751 closing prices) are compared to model prediction.
 ![](/prediction/images/moving average.png)
+
 ![](/prediction/images/prediction.png)
