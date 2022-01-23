@@ -23,4 +23,4 @@
 * The rest 30% data (751 closing prices) are compared to model prediction.
 ![](/prediction/images/moving average.png)
 
-![](/prediction/images/prediction.png)
+
