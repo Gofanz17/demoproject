@@ -17,6 +17,7 @@
 
 # [Project 3 : Stock prediction using Keras](https://github.com/Gofanz17/porto_project/tree/main/prediction)
 * Created by using data from yahoo finance.
+* This project uses an artificial recurrent neural network called Long Short Term Memory (LSTM) to predict the closing stock price of a corporation (Bank BCA) using the past stock prices
 * Trading variables also used just to show the price movement.
 * The variables is used to show which prices will be the support and which prices will be the resistance.
 ![](/prediction/images/ma.png)
