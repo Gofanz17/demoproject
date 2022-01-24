@@ -15,7 +15,7 @@
 * User can select which province will be shown by clicking in the map or in the histogram table.
 ![](/tableu/tableucovid19.JPG)
 
-# [Project 3 : Stock prediction using Keras](https://github.com/Gofanz17/porto_project/tree/main/prediction)
+# [Project 3 : Stock Price Prediction using Keras](https://github.com/Gofanz17/porto_project/tree/main/prediction)
 * Created by using data from yahoo finance.
 * This project uses an artificial recurrent neural network called Long Short Term Memory (LSTM) to predict the closing stock price of a corporation (Bank BCA) using the past stock prices.
 * Trading variables also used just to show the price movement.
